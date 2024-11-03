@@ -1,22 +1,23 @@
-![Primary for Obsidian Overview](https://github.com/primary-theme/obsidian/blob/main/assets/obsidian-overview-header.png)
-<h1 align="center">Primary for <a href="https://obsidian.md">Obsidian</a></h1>
+![Darker Primary for Obsidian Overview](assets/obsidian-overview-header.png)
+<h1 align="center">Darker Primary for <a href="https://obsidian.md">Obsidian</a></h1>
 <p align="center">
-    <a href="https://github.com/primary-theme/obsidian/stargazers"><img alt="Repo stars" src="https://img.shields.io/github/stars/primary-theme/obsidian?style=for-the-badge&logoColor=EEE7DD&labelColor=593E21&color=D6971B"></a>
     <a href="./LICENSE"><img alt="Repo License" src="https://img.shields.io/github/license/primary-theme/obsidian?style=for-the-badge&logoColor=EEE7DD&labelColor=593E21&color=BF3F35"></a>
     <a href=""><img alt="Repository Contributors" src="https://img.shields.io/github/contributors/primary-theme/obsidian?style=for-the-badge&logoColor=EEE7DD&labelColor=593E21&color=23739B"></a>
 </p>
 
 <p align="center" style="font-style: italic;">
     Winner of <a href="http://obsidian.md/october2021">Obsidian October 2021</a>'s Best Theme ✨
-    <blockquote>
-    Primary is soft, chewy, comforting — like a chocolate chip cookie, or a warm brownie. Primary instantly puts you in a relaxed state that opens the door to creativity and exploration. Wonderfully executed down to the smallest details, Primary ran away with first place.
-    </blockquote>
+    <br><br>
+    <p>
+        Theme made by @ceciliamay (@primary-theme) remastered by @Fyelne
+    </p>
+    <p>
+        Darker Primary is a remastered version of the <a href="https://github.com/primary-theme/obsidian">Primary</a> theme for Obsidian, inspired by the  Visual Studio Code</a>. It is a darker, more muted theme that is designed to be easy on the eyes and provide a comfortable writing experience.
+    </p>
+    <p>
+        The text below is part of the Primary Obsidian Theme README
+    </p>
 </p>
-
-<p align="right">
-    <strong>Obsidian October 2021 Judges</strong>
-</p>
-
 <small>
     This refresh wouldn't be possible without my <a href="https://github.com/primary-theme/obsidian/releases/tag/v.2.7.0">supporters</a>!
     <br><br>
